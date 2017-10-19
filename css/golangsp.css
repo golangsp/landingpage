@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 19, 2017, 4:28:12 PM
+    Author     : jeffprestes
+*/
+
+@font-face { font-family: IBM3270; src: url('../img/3270Medium.otf'); }
+
+div {
+    margin: auto;
+    text-align: center;
+    font-family: IBM3270;
+    font-size: large;
+}
+
+img {
+    width: 90%;
+}
